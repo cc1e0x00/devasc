@@ -1,0 +1,7 @@
+Userful git CLI
+
+
+git status 
+git branch 
+git checkout <branch> 
+git log
